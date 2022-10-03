@@ -1,7 +1,7 @@
 ---
-title: iOS
-category: Devices
-order: 1
+title: Punzones
+category: Ofertas
+order: 2
 ---
 
 Use ChatApp on most of your Apple devices. Only the latest versions are supported.

@@ -1,7 +1,7 @@
 ---
-title: Android
-category: Devices
-order: 2
+title: Boquillas
+category: Ofertas
+order: 1
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.
