@@ -4,14 +4,11 @@ category: Cachimbas
 order: 2
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+### Steamulations
+En wyd Hooka encontraras las mejores steamulations en oferta.
 
-> Signing up with Facebook automatically starts syncing contacts.
+> Steamulation PRO X PRIME (GEN.II) -- 289,95€ 
+![imagen](../../images/cachimbas/steamulations/proxprime.jpg)
 
-To sync your contacts:
-
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
-
-![](//placehold.it/800x600)
+> Steamulation PRO X MINI  -- 199,95€ 
+![imagen](../../images/cachimbas/steamulations/proxmini.jpg)

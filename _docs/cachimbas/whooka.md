@@ -4,15 +4,13 @@ category: Cachimbas
 order: 1
 ---
 
-Sync your phone contacts with ChatApp. ChatApp saves your phone contacts and adds anyone with an email address to your contact list!
+### Wookas
+En wyd Hooka encontraras las mejores wookas en oferta.
 
-> Syncing contacts with your phone restores any previously synced contacts.
+> Wooka White NOX -- 334,95€
+-------------------------------------
+![imagen](../../images/cachimbas/wookas/wooka1.jpeg)
 
-To sync your contacts:
-
-1. Open your *User Settings* on your phone app
-2. Select the **Sync Contacts** button
-3. Authorise ChatApp permissions
-4. Select some or all of your contacts
-
-![](//placehold.it/800x600)
+> Wooka Cristal -- 299,95€
+-------------------------------------
+![imagen](../../images/cachimbas/wookas/wooka2.jpg)
